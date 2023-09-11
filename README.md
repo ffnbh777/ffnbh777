@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ffnbh777
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m taking part in the Cybermillion
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
